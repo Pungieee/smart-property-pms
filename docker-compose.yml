@@ -1,0 +1,14 @@
+services:
+  server:
+    build: ./server
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+
+  client:
+    build: ./client
+    ports:
+      - "80:80"
+    depends_on:
+      - server
