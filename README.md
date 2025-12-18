@@ -1,7 +1,7 @@
 # Smart Property PMS
 
 **Smart Property PMS** is a simple, centralized portal to manage real‑estate units, sales contracts, and maintenance tasks.  
-Built as a portfolio project to practice **role-based access control (RBAC)**, clean API design, and a scalable app structure.  
+Built as a project to practice **role-based access control (RBAC)**, clean API design, and a scalable app structure.  
 
 > Data for this project comes from [New York Housing Market Dataset on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market)
 
